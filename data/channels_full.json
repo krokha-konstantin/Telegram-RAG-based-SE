@@ -1,0 +1,492 @@
+[
+  {
+    "name": "СЕТИ — IT & Digital вакансии",
+    "telegram_username": "@it_vakansii_jobs",
+    "telegram_link": "https://t.me/it_vakansii_jobs",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 77582,
+    "description": "Daily compilations of IT and digital job postings with direct HR contacts",
+    "source_page": "https://telemetr.me/content/it_vakansii_jobs"
+  },
+  {
+    "name": "Job in IT&Digital",
+    "telegram_username": "@geekjobs",
+    "telegram_link": "https://t.me/geekjobs",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 43867,
+    "description": "Top IT and digital vacancies, including positions not found on job boards",
+    "source_page": "https://telemetr.io/en/channels/1052346215-geekjobs"
+  },
+  {
+    "name": "JVM Jobs",
+    "telegram_username": "@alljvmjobs",
+    "telegram_link": "https://t.me/alljvmjobs",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 5371,
+    "description": "Job postings for Java, Scala, Kotlin, and Clojure developers collected from beyond major job sites",
+    "source_page": "https://gb.ru/blog/telegram-kanaly-s-vakansiyami/"
+  },
+  {
+    "name": "Job for PHP",
+    "telegram_username": "@jobforphp",
+    "telegram_link": "https://t.me/jobforphp",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 2599,
+    "description": "Job postings for PHP developers sourced from beyond typical job boards",
+    "source_page": "https://gb.ru/blog/telegram-kanaly-s-vakansiyami/"
+  },
+  {
+    "name": "Data Science Jobs",
+    "telegram_username": "@datasciencejobs",
+    "telegram_link": "https://t.me/datasciencejobs",
+    "category": "data science",
+    "language": "Russian",
+    "approximate_subscribers": 19801,
+    "description": "Top job openings for data science, machine learning, AI, computer vision, and data analytics specialists",
+    "source_page": "https://gb.ru/blog/telegram-kanaly-s-vakansiyami/"
+  },
+  {
+    "name": "Game Development Jobs",
+    "telegram_username": "@devjobs",
+    "telegram_link": "https://t.me/devjobs",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 39429,
+    "description": "Video game development job postings and related opportunities",
+    "source_page": "https://gb.ru/blog/telegram-kanaly-s-vakansiyami/"
+  },
+  {
+    "name": "Job for Mobile: iOS, Android, React Native",
+    "telegram_username": "@forallmobile",
+    "telegram_link": "https://t.me/forallmobile",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 5911,
+    "description": "Job vacancies for mobile developers (iOS, Android, React Native), curated from beyond typical job sites",
+    "source_page": "https://gb.ru/blog/telegram-kanaly-s-vakansiyami/"
+  },
+  {
+    "name": "Job for QA",
+    "telegram_username": "@forallqa",
+    "telegram_link": "https://t.me/forallqa",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 20365,
+    "description": "Vacancies for manual and automated testers (QA/TestOps), gathered beyond normal job boards",
+    "source_page": "https://gb.ru/blog/telegram-kanaly-s-vakansiyami/"
+  },
+  {
+    "name": "Job for Ruby & Elixir",
+    "telegram_username": "@forruby",
+    "telegram_link": "https://t.me/forruby",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 1311,
+    "description": "Job postings for Ruby and Elixir developers from outside major job boards",
+    "source_page": "https://gb.ru/blog/telegram-kanaly-s-vakansiyami/"
+  },
+  {
+    "name": "JavaScript Jobs — вакансии и резюме",
+    "telegram_username": "@javascript_jobs_feed",
+    "telegram_link": "https://t.me/javascript_jobs_feed",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 14733,
+    "description": "Channel sharing JavaScript developer job postings (aggregated from the @javascript_jobs chat)",
+    "source_page": "https://potok.io/blog/hr-howto/telegram-channels-and-chats-with-vacancies-it-digital/"
+  },
+  {
+    "name": "Работа — вёрстка и фронтенд",
+    "telegram_username": "@job_webdev",
+    "telegram_link": "https://t.me/job_webdev",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 6608,
+    "description": "Top job and freelance gig postings for HTML/CSS and front-end development",
+    "source_page": "https://potok.io/blog/hr-howto/telegram-channels-and-chats-with-vacancies-it-digital/"
+  },
+  {
+    "name": "Front-end Job Offers",
+    "telegram_username": "@runello_rus_frontend",
+    "telegram_link": "https://t.me/runello_rus_frontend",
+    "category": "remote jobs",
+    "language": "Russian",
+    "approximate_subscribers": 11868,
+    "description": "Remote/hybrid full-time job openings for Front-end developers",
+    "source_page": "https://potok.io/blog/hr-howto/telegram-channels-and-chats-with-vacancies-it-digital/"
+  },
+  {
+    "name": "Job for Frontend (JS + Node)",
+    "telegram_username": "@forfrontend",
+    "telegram_link": "https://t.me/forfrontend",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 11890,
+    "description": "Vacancies for JavaScript/Node.js developers collected from beyond major job boards",
+    "source_page": "https://potok.io/blog/hr-howto/telegram-channels-and-chats-with-vacancies-it-digital/"
+  },
+  {
+    "name": "Backend Job Offers",
+    "telegram_username": "@runello_rus_backend",
+    "telegram_link": "https://t.me/runello_rus_backend",
+    "category": "remote jobs",
+    "language": "Russian",
+    "approximate_subscribers": 10405,
+    "description": "Remote/hybrid full-time job openings for Backend developers",
+    "source_page": "https://potok.io/blog/hr-howto/telegram-channels-and-chats-with-vacancies-it-digital/"
+  },
+  {
+    "name": "Вакансии .Net, Java, C#, C++ и Golang",
+    "telegram_username": "@java_c_net_golang_jobs",
+    "telegram_link": "https://t.me/java_c_net_golang_jobs",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 7613,
+    "description": "Job vacancies for .Net, Java, C#, C++, and Golang developers",
+    "source_page": "https://potok.io/blog/hr-howto/telegram-channels-and-chats-with-vacancies-it-digital/"
+  },
+  {
+    "name": "Job for Go, Rust Developers",
+    "telegram_username": "@forgoandrust",
+    "telegram_link": "https://t.me/forgoandrust",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 3390,
+    "description": "Vacancies for Go and Rust developers collected beyond typical job sites",
+    "source_page": "https://potok.io/blog/hr-howto/telegram-channels-and-chats-with-vacancies-it-digital/"
+  },
+  {
+    "name": "Job for Sysadmin & DevOps",
+    "telegram_username": "@fordevops",
+    "telegram_link": "https://t.me/fordevops",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 3943,
+    "description": "Job postings for system administrators, DevOps, and SRE engineers beyond standard job boards",
+    "source_page": "https://potok.io/blog/hr-howto/telegram-channels-and-chats-with-vacancies-it-digital/"
+  },
+  {
+    "name": "Слёрм Карьера — вакансии в IT",
+    "telegram_username": "@JobsforDevsandOps",
+    "telegram_link": "https://t.me/JobsforDevsandOps",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 1904,
+    "description": "Vacancies for IT engineers, sysadmins, and developers",
+    "source_page": "https://potok.io/blog/hr-howto/telegram-channels-and-chats-with-vacancies-it-digital/"
+  },
+  {
+    "name": "Работа в геймдеве",
+    "telegram_username": "@gamedevjob",
+    "telegram_link": "https://t.me/gamedevjob",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 39979,
+    "description": "Channel publishing job postings in game development (commercial vacancies only)",
+    "source_page": "https://potok.io/blog/hr-howto/telegram-channels-and-chats-with-vacancies-it-digital/"
+  },
+  {
+    "name": "Gamedev Jobs",
+    "telegram_username": "@Gamedevjobs",
+    "telegram_link": "https://t.me/Gamedevjobs",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 19036,
+    "description": "Curated video game development job vacancies by an industry veteran",
+    "source_page": "https://potok.io/blog/hr-howto/telegram-channels-and-chats-with-vacancies-it-digital/"
+  },
+  {
+    "name": "Young Gamedev",
+    "telegram_username": "@young_gamedev",
+    "telegram_link": "https://t.me/young_gamedev",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 15812,
+    "description": "Game development job postings targeted at junior candidates",
+    "source_page": "https://potok.io/blog/hr-howto/telegram-channels-and-chats-with-vacancies-it-digital/"
+  },
+  {
+    "name": "GameDev Career – GDTalents",
+    "telegram_username": "@gdjobs",
+    "telegram_link": "https://t.me/gdjobs",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 12739,
+    "description": "Gaming industry jobs and career opportunities (from GD Talents community)",
+    "source_page": "https://potok.io/blog/hr-howto/telegram-channels-and-chats-with-vacancies-it-digital/"
+  },
+  {
+    "name": "Job for Gamedev",
+    "telegram_username": "@forgamedev",
+    "telegram_link": "https://t.me/forgamedev",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 11061,
+    "description": "Video game development job listings collected beyond typical job boards",
+    "source_page": "https://potok.io/blog/hr-howto/telegram-channels-and-chats-with-vacancies-it-digital/"
+  },
+  {
+    "name": "Вакансии GameDev, Unity и Unreal Engine",
+    "telegram_username": "@gamedev_unity_unreal_engine_jobs",
+    "telegram_link": "https://t.me/gamedev_unity_unreal_engine_jobs",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 2172,
+    "description": "Game development job vacancies for Unity and Unreal Engine developers",
+    "source_page": "https://potok.io/blog/hr-howto/telegram-channels-and-chats-with-vacancies-it-digital/"
+  },
+  {
+    "name": "Работа в Геймдеве",
+    "telegram_username": "@job_gamedev",
+    "telegram_link": "https://t.me/job_gamedev",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 3105,
+    "description": "Job postings in game development for 3D artists, programmers, and QA",
+    "source_page": "https://potok.io/blog/hr-howto/telegram-channels-and-chats-with-vacancies-it-digital/"
+  },
+  {
+    "name": "Mobile jobs — вакансии для мобильных разработчиков",
+    "telegram_username": "@mobiledevjob",
+    "telegram_link": "https://t.me/mobiledevjob",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 4485,
+    "description": "Top job vacancies for mobile (iOS/Android) developers",
+    "source_page": "https://potok.io/blog/hr-howto/telegram-channels-and-chats-with-vacancies-it-digital/"
+  },
+  {
+    "name": "Jobs Code: IT вакансии",
+    "telegram_username": "@jc_it",
+    "telegram_link": "https://t.me/jc_it",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 14712,
+    "description": "Job listings and recruitment posts for IT positions",
+    "source_page": "https://kata.academy/blog/hrhunting/20-sajtov-i-telegram-kanalov-dlya-poiska-raboty-it"
+  },
+  {
+    "name": "Вакансии Golang (Go)",
+    "telegram_username": "@rabota_golang",
+    "telegram_link": "https://t.me/rabota_golang",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 3641,
+    "description": "Golang (Go) developer job postings from reputable companies",
+    "source_page": "https://kata.academy/blog/hrhunting/20-sajtov-i-telegram-kanalov-dlya-poiska-raboty-it"
+  },
+  {
+    "name": "Golang Job Offers",
+    "telegram_username": "@runello_rus_goland",
+    "telegram_link": "https://t.me/runello_rus_goland",
+    "category": "remote jobs",
+    "language": "Russian",
+    "approximate_subscribers": 6812,
+    "description": "Remote/hybrid full-time positions for Golang developers",
+    "source_page": "https://kata.academy/blog/hrhunting/20-sajtov-i-telegram-kanalov-dlya-poiska-raboty-it"
+  },
+  {
+    "name": "Удалёнка — IT и Digital",
+    "telegram_username": "@theyseeku_it",
+    "telegram_link": "https://t.me/theyseeku_it",
+    "category": "remote jobs",
+    "language": "Russian",
+    "approximate_subscribers": 8926,
+    "description": "Remote IT & Digital job postings updated daily",
+    "source_page": "https://kata.academy/blog/hrhunting/20-sajtov-i-telegram-kanalov-dlya-poiska-raboty-it"
+  },
+  {
+    "name": "Работа в ИТ",
+    "telegram_username": "@workayte",
+    "telegram_link": "https://t.me/workayte",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 10579,
+    "description": "Channel for IT job postings in IT and related fields, including abroad opportunities",
+    "source_page": "https://telemetr.me/content/workayte"
+  },
+  {
+    "name": "IT Jobs | Вакансии в IT",
+    "telegram_username": "@devs_it",
+    "telegram_link": "https://t.me/devs_it",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 14936,
+    "description": "Job listings curated from verified IT companies",
+    "source_page": "https://telemetr.me/content/devs_it"
+  },
+  {
+    "name": "JavaScript Job | Вакансии | Стажировки",
+    "telegram_username": "@JScript_jobs",
+    "telegram_link": "https://t.me/JScript_jobs",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 11380,
+    "description": "JavaScript developer job and internship listings from verified IT companies",
+    "source_page": "https://vc.ru/id1553412/642591-220-chatov-i-kanalov-v-telegram-s-vakansiyami-dlya-it-specialistov"
+  },
+  {
+    "name": "TypeScript Job Offers",
+    "telegram_username": "@runello_rus_typescript",
+    "telegram_link": "https://t.me/runello_rus_typescript",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 7303,
+    "description": "Remote/hybrid full-time positions for TypeScript developers",
+    "source_page": "https://vc.ru/id1553412/642591-220-chatov-i-kanalov-v-telegram-s-vakansiyami-dlya-it-specialistov"
+  },
+  {
+    "name": "JavaScript Job Offers",
+    "telegram_username": "@runello_rus_javascript",
+    "telegram_link": "https://t.me/runello_rus_javascript",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 7389,
+    "description": "Remote/hybrid full-time positions for JavaScript developers",
+    "source_page": "https://vc.ru/id1553412/642591-220-chatov-i-kanalov-v-telegram-s-vakansiyami-dlya-it-specialistov"
+  },
+  {
+    "name": "HTML Job Offers",
+    "telegram_username": "@runello_rus_html",
+    "telegram_link": "https://t.me/runello_rus_html",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 7264,
+    "description": "Remote/hybrid job openings for HTML developers",
+    "source_page": "https://vc.ru/id1553412/642591-220-chatov-i-kanalov-v-telegram-s-vakansiyami-dlya-it-specialistov"
+  },
+  {
+    "name": "Angular Jobs — вакансии и резюме",
+    "telegram_username": "@angular_jobs_feed",
+    "telegram_link": "https://t.me/angular_jobs_feed",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 2042,
+    "description": "Angular developer job listings and resumes (from @angular_jobs chat)",
+    "source_page": "https://vc.ru/id1553412/642591-220-chatov-i-kanalov-v-telegram-s-vakansiyami-dlya-it-specialistov"
+  },
+  {
+    "name": "NodeJS Jobs",
+    "telegram_username": "@nodejsjobsfeed",
+    "telegram_link": "https://t.me/nodejsjobsfeed",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 3021,
+    "description": "Node.js developer job listings (from @nodejs_jobs chat)",
+    "source_page": "https://vc.ru/id1553412/642591-220-chatov-i-kanalov-v-telegram-s-vakansiyami-dlya-it-specialistov"
+  },
+  {
+    "name": "Python работа",
+    "telegram_username": "@pythonrabota",
+    "telegram_link": "https://t.me/pythonrabota",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 11404,
+    "description": "Fresh Python job vacancies with direct HR or manager contacts",
+    "source_page": "https://vc.ru/id1553412/642591-220-chatov-i-kanalov-v-telegram-s-vakansiyami-dlya-it-specialistov"
+  },
+  {
+    "name": "Nomad Jobs. IT вакансии для начинающих",
+    "telegram_username": "@nomadjobs",
+    "telegram_link": "https://t.me/nomadjobs",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 5227,
+    "description": "IT job opportunities targeted at entry-level specialists",
+    "source_page": "https://telemetr.me/content/nomadjobs"
+  },
+  {
+    "name": "Remote IT (Inflow)",
+    "telegram_username": "@Remoteit",
+    "telegram_link": "https://t.me/Remoteit",
+    "category": "remote jobs",
+    "language": "Russian",
+    "approximate_subscribers": 42265,
+    "description": "Remote job postings and project opportunities for IT professionals",
+    "source_page": "https://vc.ru/id1553412/642591-220-chatov-i-kanalov-v-telegram-s-vakansiyami-dlya-it-specialistov"
+  },
+  {
+    "name": "Hidden Gurus - Remote IT",
+    "telegram_username": "@hiddengurus",
+    "telegram_link": "https://t.me/hiddengurus",
+    "category": "remote jobs",
+    "language": "Russian",
+    "approximate_subscribers": 8347,
+    "description": "High-quality remote IT job opportunities worldwide for expert professionals",
+    "source_page": "https://telemetr.me/content/hiddengurus"
+  },
+  {
+    "name": "IT Jobs | вакансии, фриланс",
+    "telegram_username": "@it_vac",
+    "telegram_link": "https://t.me/it_vac",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 8796,
+    "description": "Vacancies and resumes in the IT field",
+    "source_page": "https://telemetr.me/content/AAAAAEkfWVr3qi4qft2QOQ"
+  },
+  {
+    "name": "Work Embedded",
+    "telegram_username": "@rabotaembedded",
+    "telegram_link": "https://t.me/rabotaembedded",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 6028,
+    "description": "Job postings for embedded systems developers and related IT events",
+    "source_page": "https://telemetr.me/content/rabotaembedded"
+  },
+  {
+    "name": "Работа для программиста | IT вакансии",
+    "telegram_username": "@program_job",
+    "telegram_link": "https://t.me/program_job",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 4340,
+    "description": "IT job vacancies targeted at programmers",
+    "source_page": "https://t.me/program_job"
+  },
+  {
+    "name": "UI/UX Jobs — канал вакансий и резюме дизайнеров",
+    "telegram_username": "@uiux_jobs_resumes",
+    "telegram_link": "https://t.me/uiux_jobs_resumes",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 3460,
+    "description": "UI/UX design job openings and resumes curated from a designer jobs chat",
+    "source_page": "https://telemetr.me/content/uiux_jobs_resumes"
+  },
+  {
+    "name": "IT Jobs (No Code)",
+    "telegram_username": "@itjobs_nocode",
+    "telegram_link": "https://t.me/itjobs_nocode",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 8070,
+    "description": "Hand-curated IT job openings from verified companies",
+    "source_page": "https://telemetr.me/content/itjobs_nocode"
+  },
+  {
+    "name": "Devops Jobs — вакансии и резюме",
+    "telegram_username": "@devops_jobs_feed",
+    "telegram_link": "https://t.me/devops_jobs_feed",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 19482,
+    "description": "Vacancies for DevOps and SRE engineers aggregated from @devops_jobs chat",
+    "source_page": "https://telemetr.me/content/devops_jobs_feed"
+  },
+  {
+    "name": "Java Job | Вакансии | Работа",
+    "telegram_username": "@job_javadevs",
+    "telegram_link": "https://t.me/job_javadevs",
+    "category": "IT jobs",
+    "language": "Russian",
+    "approximate_subscribers": 13972,
+    "description": "Channel with Java developer job postings",
+    "source_page": "https://t.me/job_javadevs"
+  }
+]

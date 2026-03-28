@@ -1,0 +1,492 @@
+[
+  {
+    "name": "GPTMain News",
+    "telegram_username": "@GPTMainNews",
+    "telegram_link": "https://t.me/GPTMainNews",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 2053634,
+    "description": "Первый верифицированный Telegram-канал о технологиях и искусственном интеллекте",
+    "source_page": "https://vc.ru/ai/1531969-luchshie-telegram-kanaly-pro-neiroseti-i-ii-24-god"
+  },
+  {
+    "name": "Castalia",
+    "telegram_username": "@Castalia_Ai",
+    "telegram_link": "https://t.me/Castalia_Ai",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 14788,
+    "description": "Коротко — про нейросети, технологии, IT и многое другое",
+    "source_page": "https://vc.ru/ai/1531969-luchshie-telegram-kanaly-pro-neiroseti-i-ii-24-god"
+  },
+  {
+    "name": "Hi, AI! • Новости технологий",
+    "telegram_username": "@hiaimedia",
+    "telegram_link": "https://t.me/hiaimedia",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 2347868,
+    "description": "Главный канал об искусственном интеллекте и нейросетях",
+    "source_page": "https://vc.ru/ai/1531969-luchshie-telegram-kanaly-pro-neiroseti-i-ii-24-god"
+  },
+  {
+    "name": "Data Science by ODS.ai",
+    "telegram_username": "@opendatascience",
+    "telegram_link": "https://t.me/opendatascience",
+    "category": "AI research",
+    "language": "English",
+    "approximate_subscribers": 49294,
+    "description": "Первый Telegram-канал по Data Science и ML: авторский контент об ИИ и больших данных",
+    "source_page": "https://vc.ru/ai/1531969-luchshie-telegram-kanaly-pro-neiroseti-i-ii-24-god"
+  },
+  {
+    "name": "addmeto",
+    "telegram_username": "@addmeto",
+    "telegram_link": "https://t.me/addmeto",
+    "category": "AI industry analysis",
+    "language": "Russian",
+    "approximate_subscribers": 73814,
+    "description": "Интересные новости из мира IT и технологий с акцентом на AI-события",
+    "source_page": "https://vc.ru/ai/1531969-luchshie-telegram-kanaly-pro-neiroseti-i-ii-24-god"
+  },
+  {
+    "name": "Neural Shit",
+    "telegram_username": "@NeuralShit",
+    "telegram_link": "https://t.me/NeuralShit",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 50916,
+    "description": "Канал о нейронных сетях с авторским юмором и свежими ИИ-новостями",
+    "source_page": "https://vc.ru/ai/1531969-luchshie-telegram-kanaly-pro-neiroseti-i-ii-24-god"
+  },
+  {
+    "name": "ТЕХНО: Яндекс про технологии",
+    "telegram_username": "@techno_yandex",
+    "telegram_link": "https://t.me/techno_yandex",
+    "category": "mixed",
+    "language": "Russian",
+    "approximate_subscribers": 212519,
+    "description": "Канал об устройстве мира технологий (в том числе ИИ) от Яндекса",
+    "source_page": "https://trends.rbc.ru/trends/social/cmrm/68abfbba9a7947743b95f729"
+  },
+  {
+    "name": "Сиолошная",
+    "telegram_username": "@seeallochnaya",
+    "telegram_link": "https://t.me/seeallochnaya",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 71869,
+    "description": "Канал Игоря Котенкова: новости и мысли о NLP, VR, космосе и технологиях",
+    "source_page": "https://trends.rbc.ru/trends/social/cmrm/68abfbba9a7947743b95f729"
+  },
+  {
+    "name": "эйай ньюз",
+    "telegram_username": "@ai_newz",
+    "telegram_link": "https://t.me/ai_newz",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 90314,
+    "description": "Канал Артема Санакоева: актуальные и не очень новости мира AI с экспертным взглядом",
+    "source_page": "https://trends.rbc.ru/trends/social/cmrm/68abfbba9a7947743b95f729"
+  },
+  {
+    "name": "Стать специалистом по машинному обучению",
+    "telegram_username": "@toBeAnMLspecialist",
+    "telegram_link": "https://t.me/toBeAnMLspecialist",
+    "category": "AI research",
+    "language": "Russian",
+    "approximate_subscribers": 10620,
+    "description": "Канал Михаила Крыжановского: учимся разбираться в машинном обучении вместе",
+    "source_page": "https://trends.rbc.ru/trends/social/cmrm/68abfbba9a7947743b95f729"
+  },
+  {
+    "name": "LLM под капотом",
+    "telegram_username": "@llm_under_hood",
+    "telegram_link": "https://t.me/llm_under_hood",
+    "category": "AI research",
+    "language": "Russian",
+    "approximate_subscribers": 24252,
+    "description": "Канал о разработке продуктов на базе LLM/ChatGPT: новости и кейсы",
+    "source_page": "https://trends.rbc.ru/trends/social/cmrm/68abfbba9a7947743b95f729"
+  },
+  {
+    "name": "Machinelearning",
+    "telegram_username": "@ai_machinelearning_big_data",
+    "telegram_link": "https://t.me/ai_machinelearning_big_data",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 327855,
+    "description": "Глубокое погружение в машинное обучение и Data Science, запуск любых LLM на пальцах",
+    "source_page": "https://trends.rbc.ru/trends/social/cmrm/68abfbba9a7947743b95f729"
+  },
+  {
+    "name": "TechSparks",
+    "telegram_username": "@techsparks",
+    "telegram_link": "https://t.me/techsparks",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 45894,
+    "description": "Аннотированные ссылки на интересные и полезные новости из мира хай-тех",
+    "source_page": "https://trends.rbc.ru/trends/social/cmrm/68abfbba9a7947743b95f729"
+  },
+  {
+    "name": "Хабр",
+    "telegram_username": "@habr_com",
+    "telegram_link": "https://t.me/habr_com",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 127258,
+    "description": "Telegram-канал одноименного IT-ресурса: краткие новости и анонсы публикаций о технологиях",
+    "source_page": "https://trends.rbc.ru/trends/social/cmrm/68abfbba9a7947743b95f729"
+  },
+  {
+    "name": "Точки над ИИ",
+    "telegram_username": "@TochkiNadAI",
+    "telegram_link": "https://t.me/TochkiNadAI",
+    "category": "AI tools",
+    "language": "Russian",
+    "approximate_subscribers": 14179,
+    "description": "Канал о работе с AI-сервисами: обзоры инструментов и примеры использования",
+    "source_page": "https://trends.rbc.ru/trends/social/cmrm/68abfbba9a7947743b95f729"
+  },
+  {
+    "name": "Борис опять",
+    "telegram_username": "@boris_again",
+    "telegram_link": "https://t.me/boris_again",
+    "category": "AI research",
+    "language": "Russian",
+    "approximate_subscribers": 16103,
+    "description": "Канал Бориса Цейтлина: обзоры AI-исследований, эксперименты с нейросетями и размышления",
+    "source_page": "https://trends.rbc.ru/trends/social/cmrm/68abfbba9a7947743b95f729"
+  },
+  {
+    "name": "Метаверсище и ИИще",
+    "telegram_username": "@cgevent",
+    "telegram_link": "https://t.me/cgevent",
+    "category": "AI industry analysis",
+    "language": "Russian",
+    "approximate_subscribers": 49100,
+    "description": "Персональный экспертный канал Сергея Цыпцына о развитии ИИ, метавселенной и нейротехнологиях",
+    "source_page": "https://vc.ru/ai/2309651-top-10-telegram-kanalov-o-nevrositetah-i-tehnologiyah"
+  },
+  {
+    "name": "Нейродвиж",
+    "telegram_username": "@neuraldvig",
+    "telegram_link": "https://t.me/neuraldvig",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 329739,
+    "description": "Культовый канал Ивана Юницкого о нейросетях, технологиях и IT",
+    "source_page": "https://vc.ru/ai/2309651-top-10-telegram-kanalov-o-nevrositetah-i-tehnologiyah"
+  },
+  {
+    "name": "ChatGPT | Нейросети",
+    "telegram_username": "@gptpublic",
+    "telegram_link": "https://t.me/gptpublic",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 290455,
+    "description": "Новости и кейсы применения ИИ в разных сферах бизнеса",
+    "source_page": "https://news.pressfeed.ru/24-telegram-kanala-o-nejrosetyah-gde-iskat-obzory-servisov-promty-dlya-ii-sovety-i-lajfhaki/"
+  },
+  {
+    "name": "Миша, давай по новой",
+    "telegram_username": "@misha_davai_po_novoi",
+    "telegram_link": "https://t.me/misha_davai_po_novoi",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 17558,
+    "description": "Рассказы о нейросетях и их эффективном применении в диджитале",
+    "source_page": "https://news.pressfeed.ru/24-telegram-kanala-o-nejrosetyah-gde-iskat-obzory-servisov-promty-dlya-ii-sovety-i-lajfhaki/"
+  },
+  {
+    "name": "Ai molodca",
+    "telegram_username": "@strangedalle",
+    "telegram_link": "https://t.me/strangedalle",
+    "category": "AI tools",
+    "language": "Russian",
+    "approximate_subscribers": 43303,
+    "description": "Канал Александра Доброкотова об AI-работах и сервисах генерации контента",
+    "source_page": "https://news.pressfeed.ru/24-telegram-kanala-o-nejrosetyah-gde-iskat-obzory-servisov-promty-dlya-ii-sovety-i-lajfhaki/"
+  },
+  {
+    "name": "GPT News | chatGPT | OpenAI",
+    "telegram_username": "@gpt_news",
+    "telegram_link": "https://t.me/gpt_news",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 324278,
+    "description": "Новости о нейросетях и AI (кратко)",
+    "source_page": "https://news.pressfeed.ru/24-telegram-kanala-o-nejrosetyah-gde-iskat-obzory-servisov-promty-dlya-ii-sovety-i-lajfhaki/"
+  },
+  {
+    "name": "Neural Pony",
+    "telegram_username": "@neuralpony",
+    "telegram_link": "https://t.me/neuralpony",
+    "category": "AI news",
+    "language": "English",
+    "approximate_subscribers": 220771,
+    "description": "Channel about neural networks and latest AI/deep learning advancements",
+    "source_page": "https://news.pressfeed.ru/24-telegram-kanala-o-nejrosetyah-gde-iskat-obzory-servisov-promty-dlya-ii-sovety-i-lajfhaki/"
+  },
+  {
+    "name": "Neural Brain - Нейросети",
+    "telegram_username": "@neural_braining",
+    "telegram_link": "https://t.me/neural_braining",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 23552,
+    "description": "Собраны самые актуальные новости из мира искусственного интеллекта",
+    "source_page": "https://news.pressfeed.ru/24-telegram-kanala-o-nejrosetyah-gde-iskat-obzory-servisov-promty-dlya-ii-sovety-i-lajfhaki/"
+  },
+  {
+    "name": "Not Boring Tech",
+    "telegram_username": "@notboring_tech",
+    "telegram_link": "https://t.me/notboring_tech",
+    "category": "mixed",
+    "language": "Russian",
+    "approximate_subscribers": 20297,
+    "description": "Канал про технологии и стартапы с упором на ИИ и инновации",
+    "source_page": "https://news.pressfeed.ru/24-telegram-kanala-o-nejrosetyah-gde-iskat-obzory-servisov-promty-dlya-ii-sovety-i-lajfhaki/"
+  },
+  {
+    "name": "Lama News (Lama AI)",
+    "telegram_username": "@lama_channel_gpt",
+    "telegram_link": "https://t.me/lama_channel_gpt",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 26102,
+    "description": "Канал команды Lama AI с новостями и обзорами нейросетей",
+    "source_page": "https://news.pressfeed.ru/24-telegram-kanala-o-nejrosetyah-gde-iskat-obzory-servisov-promty-dlya-ii-sovety-i-lajfhaki/"
+  },
+  {
+    "name": "Нейросекта",
+    "telegram_username": "@nsekt",
+    "telegram_link": "https://t.me/nsekt",
+    "category": "AI tools",
+    "language": "Russian",
+    "approximate_subscribers": 9765,
+    "description": "Сообщество «Свидетели ИИ»: советы, промпты и обзоры AI-сервисов",
+    "source_page": "https://news.pressfeed.ru/24-telegram-kanala-o-nejrosetyah-gde-iskat-obzory-servisov-promty-dlya-ii-sovety-i-lajfhaki/"
+  },
+  {
+    "name": "Ринат Шакиров | Промпты для Midjourney | ChatGPT",
+    "telegram_username": "@dailyprompts",
+    "telegram_link": "https://t.me/dailyprompts",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 35764,
+    "description": "Новости, авторские промпты и обзоры AI-сервисов от Рината Шакирова",
+    "source_page": "https://news.pressfeed.ru/24-telegram-kanala-o-nejrosetyah-gde-iskat-obzory-servisov-promty-dlya-ii-sovety-i-lajfhaki/"
+  },
+  {
+    "name": "Новости от нейронок",
+    "telegram_username": "@newbyneyro",
+    "telegram_link": "https://t.me/newbyneyro",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 645539,
+    "description": "Авторский контент о нейросетях и IT: новости, гайды от Антона «Neuro» Наумова",
+    "source_page": "https://telemetr.io/ru/channels/2049655388-newbyneyro"
+  },
+  {
+    "name": "Artificial Intelion",
+    "telegram_username": "@artificial_intelion",
+    "telegram_link": "https://t.me/artificial_intelion",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 229534,
+    "description": "Новости AI и ML для бизнеса: обзоры и аналитика от Intelion Cloud",
+    "source_page": "https://telemetr.io/ru/channels/2200017401-artificial_intelion"
+  },
+  {
+    "name": "NEURO-AI Новости ИИ",
+    "telegram_username": "@v_neuro",
+    "telegram_link": "https://t.me/v_neuro",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 458201,
+    "description": "Новости нейросетей и искусственного интеллекта от проекта Neuro-AI",
+    "source_page": "https://telemetr.io/ru/channels/1557453562-v_neuro"
+  },
+  {
+    "name": "AI STRING | Новости",
+    "telegram_username": "@aistring",
+    "telegram_link": "https://t.me/aistring",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 1300,
+    "description": "Новости IT, технологий и открытий будущего, в том числе AI-новости",
+    "source_page": "https://telemetr.io/en/channels/2744745248-aistring"
+  },
+  {
+    "name": "Искусственный Интеллект",
+    "telegram_username": "@aiaiaal",
+    "telegram_link": "https://t.me/aiaiaal",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 329518,
+    "description": "Канал «Искусственный Интеллект»: новости и обзоры будущих технологий (AI)",
+    "source_page": "https://telemetr.io/en/channels/1131356631-aiaiaal"
+  },
+  {
+    "name": "Пресидский залив",
+    "telegram_username": "@neural_prosecco",
+    "telegram_link": "https://t.me/neural_prosecco",
+    "category": "AI startups",
+    "language": "Russian",
+    "approximate_subscribers": 7004,
+    "description": "Блог о стартапах в AI и бизнес-попытках: успехи и неудачи команды Aesty (Antler Saudi)",
+    "source_page": "https://vc.ru/telegram/1865388-novosti-ii-top-10-tg-kanalov-po-versii-menya"
+  },
+  {
+    "name": "Нейроканал",
+    "telegram_username": "@neuro_channel",
+    "telegram_link": "https://t.me/neuro_channel",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 10080,
+    "description": "Официальный канал Tproger: новости и материалы про ИИ, нейросети и ML",
+    "source_page": "https://tproger.ru/articles/7-rossijskih-telegram-kanalov-pro-ii-i-promting"
+  },
+  {
+    "name": "Марти | Нейросети",
+    "telegram_username": "@martichatgpt",
+    "telegram_link": "https://t.me/martichatgpt",
+    "category": "AI tools",
+    "language": "Russian",
+    "approximate_subscribers": 127654,
+    "description": "Канал Марти о нейросетях: фишки, инструкции, гайды и готовые промты",
+    "source_page": "https://tproger.ru/articles/7-rossijskih-telegram-kanalov-pro-ii-i-promting"
+  },
+  {
+    "name": "Нейросети: Волшебство ИИ, IT и маркетинг",
+    "telegram_username": "@neyroseti_dr",
+    "telegram_link": "https://t.me/neyroseti_dr",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 17700,
+    "description": "Серьезный канал о нейросетях, IT и технологиях: гайды, инструкции и промпты",
+    "source_page": "https://tproger.ru/articles/7-rossijskih-telegram-kanalov-pro-ii-i-promting"
+  },
+  {
+    "name": "ML Product Hub",
+    "telegram_username": "@ml_product",
+    "telegram_link": "https://t.me/ml_product",
+    "category": "AI industry analysis",
+    "language": "Russian",
+    "approximate_subscribers": 423,
+    "description": "Новости, кейсы и статьи на стыке ML и продуктового развития (для продукт-менеджеров и аналитиков)",
+    "source_page": "https://tproger.ru/articles/7-rossijskih-telegram-kanalov-pro-ii-i-promting"
+  },
+  {
+    "name": "AI Talent Hub",
+    "telegram_username": "@aitalenthubnews",
+    "telegram_link": "https://t.me/aitalenthubnews",
+    "category": "AI research",
+    "language": "Russian",
+    "approximate_subscribers": 6706,
+    "description": "Канал проектной магистратуры по ИИ (ИТМО/Napoleon IT): новости, гайды и исследования в области AI",
+    "source_page": "https://tproger.ru/articles/7-rossijskih-telegram-kanalov-pro-ii-i-promting"
+  },
+  {
+    "name": "Chat GPT (Official)",
+    "telegram_username": "@ChatGPT_by_OpenAI",
+    "telegram_link": "https://t.me/ChatGPT_by_OpenAI",
+    "category": "AI news",
+    "language": "English",
+    "approximate_subscribers": 39560,
+    "description": "Официальный Telegram-канал ChatGPT: новости, обновления и примеры использования AI-модели от OpenAI",
+    "source_page": "https://vc.ru/telegram/1865388-novosti-ii-top-10-tg-kanalov-po-versii-menya"
+  },
+  {
+    "name": "Data Science Info",
+    "telegram_username": "@data_science_info",
+    "telegram_link": "https://t.me/data_science_info",
+    "category": "AI research",
+    "language": "English",
+    "approximate_subscribers": 39269,
+    "description": "Канал с обучающим контентом по Data Science, ML и AI: статьи, обучающие материалы и визуализации",
+    "source_page": "https://vc.ru/telegram/1865388-novosti-ii-top-10-tg-kanalov-po-versii-menya"
+  },
+  {
+    "name": "Best AI Tools",
+    "telegram_username": "@AI_Best_Tools",
+    "telegram_link": "https://t.me/AI_Best_Tools",
+    "category": "AI tools",
+    "language": "English",
+    "approximate_subscribers": 37411,
+    "description": "Канал о лучших AI-инструментах: подборки, обновления и советы по использованию",
+    "source_page": "https://vc.ru/telegram/1865388-novosti-ii-top-10-tg-kanalov-po-versii-menya"
+  },
+  {
+    "name": "AI от АИ",
+    "telegram_username": "@kvachai",
+    "telegram_link": "https://t.me/kvachai",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 604946,
+    "description": "Популярный канал о новостях искусственного интеллекта (от Creeone)",
+    "source_page": "https://telemetr.io/ru/channels/1924808639-kvachai"
+  },
+  {
+    "name": "Дмитрий Юдин AI",
+    "telegram_username": "@ai_is_you",
+    "telegram_link": "https://t.me/ai_is_you",
+    "category": "AI industry analysis",
+    "language": "Russian",
+    "approximate_subscribers": 491841,
+    "description": "Авторский канал Дмитрия Юдина: живые мысли о ИИ и технологиях",
+    "source_page": "https://telemetr.io/en/channels/2314001780-ai_is_you"
+  },
+  {
+    "name": "База знаний AI",
+    "telegram_username": "@ict_moscow_ai",
+    "telegram_link": "https://t.me/ict_moscow_ai",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 8740,
+    "description": "Канал ICT Moscow: новости и аналитика по ИИ, Big Data, робототехнике и другим темам",
+    "source_page": "https://t.me/ict_moscow_ai/3409"
+  },
+  {
+    "name": "AI Post — Artificial Intelligence news",
+    "telegram_username": "@aipost",
+    "telegram_link": "https://t.me/aipost",
+    "category": "AI news",
+    "language": "English",
+    "approximate_subscribers": 937760,
+    "description": "International AI news channel covering the latest breakthroughs in artificial intelligence",
+    "source_page": "https://telegramchannels.me/channels/aipost"
+  },
+  {
+    "name": "ChatGPTrue | Новости про AI и технологии",
+    "telegram_username": "@chatgptrue",
+    "telegram_link": "https://t.me/chatgptrue",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 23700,
+    "description": "Канал о новостях нейросетей и искусственного интеллекта",
+    "source_page": "https://t.me/s/chatgptrue"
+  },
+  {
+    "name": "AI и точка.",
+    "telegram_username": "@ai4telegram",
+    "telegram_link": "https://t.me/ai4telegram",
+    "category": "AI news",
+    "language": "Russian",
+    "approximate_subscribers": 598000,
+    "description": "Канал с быстрыми и краткими новостями об искусственном интеллекте",
+    "source_page": "https://t.me/s/ai4telegram"
+  },
+  {
+    "name": "Mitup AI",
+    "telegram_username": "@mitup_ai",
+    "telegram_link": "https://t.me/mitup_ai",
+    "category": "AI tools",
+    "language": "Russian",
+    "approximate_subscribers": 679,
+    "description": "Канал агрегатора нейросетей Mitup: новости об генеративных моделях и обзоры AI-инструментов",
+    "source_page": "https://t.me/mitup_ai"
+  }
+]

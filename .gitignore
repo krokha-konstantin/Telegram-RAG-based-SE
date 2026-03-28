@@ -1,0 +1,6 @@
+__pycache__
+.env
+/venv
+/models/*
+*.session
+telegram_posts.db
