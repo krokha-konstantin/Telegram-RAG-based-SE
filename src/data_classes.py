@@ -17,5 +17,5 @@ class Message():
         self.date = message.date
         self.id = message.id
         self.channel_username = channel.username
-        self.link = f"https://{channel.username[1::]}/{message.id}"
+        self.link = f"https://t.me/{channel.username[1::]}/{message.id}"
         self.embedding = None
